@@ -29,5 +29,7 @@ this is expected output <br />
 
 
 ## Future iterations
+- figure out how to handle db with unit testing,
 - add PEP8 and Linters,
-- containerize.
+- containerize,
+- investigate further create/get, maybe try other db?
