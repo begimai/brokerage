@@ -18,9 +18,14 @@ pip install -r requirements.txt
 ```
 
 ## Run with desired parameters
+All parameters are required.
+Currency symbol has to 3 characters.
+Start and end dates have to formatted as shown below.
 ```
 python load_data.py --symbol=SPY --currency=USD --start-date=2022-02-02 --end-date=2022-03-03
 ```
+this is expected output <br /> 
+![alt text](image.PNG) <br /> 
 
 
 ## Future iterations
